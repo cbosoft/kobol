@@ -1,2 +1,3 @@
 %: %.cobol
 	cobc -x $@.cobol
+	./$@

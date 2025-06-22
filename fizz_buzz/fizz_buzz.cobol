@@ -1,4 +1,3 @@
-       
        IDENTIFICATION DIVISION.
        PROGRAM-ID. fizz-buzz.
        ENVIRONMENT DIVISION.

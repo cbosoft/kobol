@@ -1,4 +1,3 @@
-       
        IDENTIFICATION DIVISION.
        PROGRAM-ID. fibb.
        ENVIRONMENT DIVISION.

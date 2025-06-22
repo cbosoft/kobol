@@ -21,26 +21,19 @@ Cobol ("common business-oriented language") is a compiled English-like computer 
 The sixties were wild, man.
 
 
-## Installation
+## Install Prereqs
 ```bash
 sudo apt install gnucobol
 ```
 
 
-## Build
+## Build and run
 ```bash
 cobc -x $FILENAME
-# or
-make $FILENAME_NO_EXT
 ```
 
-e.g.
+# Run examples
 ```bash
-make fizz_buzz
-```
-
-## Run
-As you would any executable, e.g.
-```bash
-./fizz_buzz
+cd hello_world # or whichever you desire
+make run
 ```
